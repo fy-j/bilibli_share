@@ -7,3 +7,4 @@
 └── README.md
 
 1. Megatron导图
+1. yazi配置
